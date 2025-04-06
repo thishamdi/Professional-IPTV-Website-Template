@@ -1,8 +1,8 @@
-# MenaTV - Professional IPTV Landing Page Template | Next.js & TypeScript
+# MenaTV - Professional IPTV Website Template | Next.js & TypeScript
 
 ![MenaTV Preview](public/og-image.jpg)
 
-Transform your IPTV service with our high-conversion, SEO-optimized landing page template. Built with Next.js 15, TypeScript, and Tailwind CSS, it's perfect for IPTV providers looking to grow their subscriber base with a modern, fast-loading website.
+Transform your IPTV service with our high-conversion, SEO-optimized website template. Built with Next.js 15, TypeScript, and Tailwind CSS, it's perfect for IPTV providers looking to grow their subscriber base with a modern, fast-loading website.
 
 ## ✨ Key Features
 
